@@ -69,6 +69,6 @@ public class Wisielec
 			map.put(word.charAt(i), i);
 		}
 		
-		return map.size();
+		return map.size(); 
 	}
 }
